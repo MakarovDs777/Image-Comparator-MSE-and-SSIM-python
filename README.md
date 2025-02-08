@@ -2,9 +2,11 @@
 На примере двух изображений:
 
 Первое
+
 ![RandomRainbow](https://github.com/user-attachments/assets/799ac376-c656-4079-bf76-3cf1c8b56850)
 
 Второе
+
 ![20241101_021513](https://github.com/user-attachments/assets/7006d4e1-d6e6-44df-a37c-b234b6f9d5fe)
 
 Давайте объясню результаты, которые мы получили:
